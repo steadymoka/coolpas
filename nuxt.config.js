@@ -6,7 +6,7 @@ module.exports = {
     APP_VERSION: pkg.version,
   },
   head: {
-    title: '쿨파스',
+    title: 'Stay humble',
     htmlAttrs: {
       lang: 'kr',
     },
@@ -14,30 +14,30 @@ module.exports = {
       {
         hid: 'description',
         name: 'description',
-        content: 'web3.0 시대의 이너파스를 꿈 꿉니다.',
+        content: 'Stay humble, stack sats!',
       },
       { charset: 'utf-8' },
       { name: 'theme-color', content: '#fdfbef' },
       {
         name: 'keyword',
-        content: '쿨파스, 이너파스',
+        content: 'bitcoin, satoshi, stay humble, stack sats',
       },
       {
         name: 'viewport',
         content:
           'width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover',
       },
-      { property: 'og:site_name', content: '쿨파스' },
+      { property: 'og:site_name', content: 'Stay humble' },
       { property: 'og:url', content: 'https://coolpas.social433.com' },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: '쿨파스',
+        content: 'Stay humble',
       },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'web3.0 시대의 이너파스를 꿈 꿉니다.',
+        content: 'Stay humble, stack sats!',
       },
       {
         hid: 'og:image',
